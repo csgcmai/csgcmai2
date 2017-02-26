@@ -1,7 +1,17 @@
 ---
 layout: page
-title: About
+title: About me
 ---
+
+
+<div style="width:100%; margin:0 auto; overflow:auto; display:inline-block;">
+    <div><img style="width: 200px; height: 200px; float: left;" src="http://www.comp.hkbu.edu.hk/~csgcmai/images/zerotheme.jpg" alt=""><h2> &nbsp;&nbsp; &nbsp; <span style="font-weight: bold;"> Guangcan Mai （麦广灿）</span> </h2></div>
+    <div style="margin-left:240px">
+    <span> Ph.D. candidate <br>Department of Computer Science <br>Hong Kong Baptist University </span>
+    <p> Email: m.g.1992@ieee.org <br>csgcmai@life.hkbu.edu.hk </p>
+    </div>
+</div>
+
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!

@@ -20,9 +20,10 @@ title: About me
     </div>
 </div>
 
+More detials, please refer to my [research homepage](http://www.comp.hkbu.edu.hk/~csgcmai){:target="blank"}.
 
 ### Brief Bio
-Guangcan MAI received the B.Eng degree in computer science and technology from [South China University of Technology](http://en.scut.edu.cn){:target="blank"}, Guangzhou, China, in 2013. He is currently pursuing the Ph.D degree in Computer Science from [Hong Kong Baptist University](http://www.hkbu.edu.hk){:target="blank"}, Hong Kong. His Ph.D advisor is [Prof. Pong C. Yuen](http://www.comp.hkbu.edu.hk/~pcyuen){:target="blank"}. He was a Visiting Scholar working with [Prof. Anil K. Jain](http://www.cse.msu.edu/~jain/){:target="blank"} in the Pattern Recognition and Image Processing (PRIP) Lab, Michigan State University, USA.
+Guangcan MAI received the B.Eng degree in computer science and technology from [South China University of Technology](http://en.scut.edu.cn){:target="blank"}, Guangzhou, China, in 2013. He is currently pursuing the Ph.D degree in Computer Science from [Hong Kong Baptist University](http://www.hkbu.edu.hk){:target="blank"}, Hong Kong. His Ph.D advisor is [Prof. Pong C. Yuen](http://www.comp.hkbu.edu.hk/~pcyuen){:target="blank"}. He was a Visiting Scholar working with [Prof. Anil K. Jain](http://www.cse.msu.edu/~jain/){:target="blank"} in the Pattern Recognition and Image Processing (PRIP) Lab, [Michigan State University](https://msu.edu){:target="blank"}, USA.
 
 ### Research Interests
 * Multi-biometric
@@ -36,8 +37,10 @@ Guangcan MAI received the B.Eng degree in computer science and technology from
 
 ### Experience
 * Visiting Scholar, Michigan State University, Feb. 2016 ~ Aug. 2016
+* President, [CSSA-HKBU](http://www.cssa.hk){:target="blank"}, 2014 ~ 2016
+* RPG Representative, Faculty of Science (HKBU), 2014 ~ 2015
 
-### Publications
+<!-- ### Publications
 * **G. Mai**, M.-H. Lim and P. C. Yuen, Fusing Binary Templates for Multi-biometric Cryptosystem, oral presentation, *BTAS2015*
 * **G. Mai**, M.-H. Lim and P. C. Yuen, Binary Feature Fusion for Discriminative and Secure Multi-biometric Cryptosystem, *Image and Vision Computing*, 2017
 * M.-H. Lim, S. Verma, **G. Mai**, and P. C. Yuen, Learning Discriminability-preserving Histogram Representation from Unordered Features for Multibiometric Feature-fused-template Protection, *Pattern Recognition*, 2016
@@ -82,4 +85,4 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+Thanks for reading! -->

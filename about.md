@@ -26,10 +26,8 @@ More detials, please refer to my [research homepage](http://www.comp.hkbu.edu.hk
 Guangcan MAI received the B.Eng degree in computer science and technology from [South China University of Technology](http://en.scut.edu.cn){:target="blank"}, Guangzhou, China, in 2013. He is currently pursuing the Ph.D degree in Computer Science from [Hong Kong Baptist University](http://www.hkbu.edu.hk){:target="blank"}, Hong Kong. His Ph.D advisor is [Prof. Pong C. Yuen](http://www.comp.hkbu.edu.hk/~pcyuen){:target="blank"}. He was a Visiting Scholar working with [Prof. Anil K. Jain](http://www.cse.msu.edu/~jain/){:target="blank"} in the Pattern Recognition and Image Processing (PRIP) Lab, [Michigan State University](https://msu.edu){:target="blank"}, USA.
 
 ### Research Interests
-* Multi-biometric
-* Biometric Security
-* Template Protection
-* Deep Learning
+* Biometric security
+* Pattern recognition
 
 ### Education
 * Ph.D Student, Hong Kong Baptist University, Sept. 2013 ~ Present
